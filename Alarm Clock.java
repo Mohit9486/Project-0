@@ -65,6 +65,7 @@ public void setCDay(short cd)
 public void setCDate( short cdt)
 {
 cDate=cdt;
+    //for tshirt
 }
 public void setCMonth(short cm)
 {
