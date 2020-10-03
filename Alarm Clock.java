@@ -60,7 +60,8 @@ public void setCTime(short ct)
 }
 public void setCDay(short cd)
 {
-    cDay=cd;
+    cDay=cd;    
+// for t-shirt
 }
 public void setCDate( short cdt)
 {
@@ -87,4 +88,4 @@ public static void main(String[] args) // main function
 {
 
 }
-}
+} 
